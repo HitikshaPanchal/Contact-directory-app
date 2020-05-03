@@ -1,6 +1,6 @@
 # Contact Directory App
 
-- [Live demo](https://rocky-thicket-33616.herokuapp.com/login)
+### [Live demo](https://rocky-thicket-33616.herokuapp.com/login)
 
 A full-stack application to save all your personal and professional contacts online and secure.
 
