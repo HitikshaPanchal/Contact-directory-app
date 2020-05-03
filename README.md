@@ -1,4 +1,5 @@
-# Contact Directory App 
+# Contact Directory App
+
 - [Live demo](https://rocky-thicket-33616.herokuapp.com/login)
 
 A full-stack application to save all your personal and professional contacts online and secure.
@@ -29,15 +30,14 @@ Stack:
 
 - **Register/Login:** Users can register and login to their account.
 
-  ![Register](./src/assets/register-page.PNG)
-  
-  ![Login](./src/assets/login.PNG)
-  
-  ![home](./src/assets/home-page.PNG)
+  ![Register](./assets/register-page.PNG)
+
+  ![Login](./assets/login.PNG)
+
+  ![home](./assets/home-page.PNG)
 
 - **Add contacts:** Users can add personal/professional contacts and filter by names.
 
-  ![contacts](./src/assets/contact.PNG)
+  ![contacts](./assets/contact.PNG)
 
 - **Edit/Delete feature:** Users can update and delete the contact details.
-
